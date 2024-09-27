@@ -1,43 +1,46 @@
-# Sample Template Mod
-[![GitHub release](https://img.shields.io/github/v/tag/BG3-Community-Library-Team/Sample-Template?label=Latest%20Version)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/releases/) [![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/Sample-Template/1.0.0/main)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/commit/)
+# Unique Consumables
 
-This is a Readme Template. Replace this paragraph with an introduction to your mod, and a short description to help users and potential collaborators understand understand it's purpose.
+This mod adds severable new consumables that increase ability score. Some items increase ability score temporarily while others increase it permanently. 
 
-## Note For Mod Authors:
-You're welcome to use this mod as a template for your own creations. In GitHub, hit the "Fork" button, and it will walk you through creating your own Repository, which you can Clone to your PC and start modding with.
+## List of Items Added:
 
-[![GitHub forks](https://img.shields.io/github/forks/BG3-Community-Library-Team/Sample-Template)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/network/)
+The following is a list of all the items I have added with their description. Note that this mod is being continual updated.
 
-## Contributing
-If you want people to be able to contribute to your mod, explain how here.
+| Name                 | Description                                 | Location |
+|:-----                |   :-------:                                 |     ----:|
+| Auntie Ethel's Pubes | Permanently increase all AS by 20           |          |
+|Godly Wine            | Increase AS by 50 for 777 turns, but become drunk|     |
+| Hot Pepper           | Increase CON by 5 and grant Spice Breathe   |          |
+|The Ham of Hamlet     | Increase STR by 35, but reduce CON by 20    |          |
+|Mystra's BreastMilk   | Increase INT and CHR by 40 Permanently      |          |
+|Raphel's Sperm        |Increase all abilities to 666 but reduce HP by 100|     |
+|Golden Egg            |Increase AS by 1 for each level             |           |
+|Golden Owlbear Egg    |Increase AS by 5 for each level              |          |
+|Phoniex Egg           |Incrase AS by 10 for each level              |          |
+|Unicorn Horn          | Increase all AS by 30. Grants Rainbow and Fly|         |
+|Fiji Water            |Increase CHR by 5 but reduce INT by 3 until long rest|  |
+|Dirty Diaper          | Increase STR, CHR, CON by 50, but decrease HP by 70|   |
+|Bioluminescent Mush   | Increase Dex by 4 and Glow until long rest     |       |
+|Popcorn               |Increase CHR by 1 until long rest (stackable) |         |
+|Sparkle's Bone        | Increase CON by 20 and HP by 20              |         |
+|ERROR%                | Random Effect                                |         |
+|Flaming Ale           |Grants Flaming Fist unit Long Rest            |         |
+
 
 ## Installation
 This mod works with [Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager), and possibly Vortex and Manual
 Installations. BG3 Mod Managers is by far the simplest method, and as such is recommended one.
 
-[![Compatible with Laughing Leader's Baldur's Gate 3 Mod Manager](https://i.imgur.com/qtdx2Yq.png)](https://github.com/LaughingLeader/BG3ModManager)
+<!-- [![Compatible with Laughing Leader's Baldur's Gate 3 Mod Manager](https://i.imgur.com/qtdx2Yq.png)](https://github.com/LaughingLeader/BG3ModManager) -->
 
-### BG3 Mod Manager
+<!-- ### BG3 Mod Manager
 1. Download the latest release, and unzip the .pak file.
 2. Open BG3 Mod Manager, click File->Import Mod.
 3. Select ModName.pak.
 5. Once imported hit refresh.
 6. Drag ModName to the top of the Left pane.
-8. Hit "Save Load Order to File."
+8. Hit "Save Load Order to File." -->
 
-## Recommended Mod Management Tools
-- [Laughing Leader's Mod Manager](https://github.com/LaughingLeader/BG3ModManager)
 
-## Other Recommended Mods/Pages
-- List any useful Mods or Pages you would recommend here. Below are some examples.
-- [Larian Studios Discord](https://discord.com/invite/larianstudios)
-  - #bg3-modding and #bg3-scripting are useful channels for learning how to mod, and connecting with the modding community.
-- [Down By the River Discord](https://discord.gg/JnPcvGr) - A Great Resource for Visual Modding - Textures and Models, especially.
-- [BG3 Best Practices Wiki](https://github.com/Baldurs-Gate-3-modders/Best-Practices-Wiki/wiki) - A bit old, but contains good information.
-- [Awesome-bg3](https://github.com/bg3mods/awesome-bg3) - A page with several links to useful guides and tutorials.
 
-## Acknowledgements
-- Larian Software, for working on Baldur's Gate 3 and bringing 5th Edition to PC.
-- The Baldur's Gate 3 Modding Community.
-- [https://github.com/ShinyHobo](ShinyHobo) for their work easing the process of creating .pak files.
-- Alana for the creation of the Mod Manager Compatibility Images.
+
