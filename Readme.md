@@ -25,7 +25,15 @@ The following is a list of all the items I have added with their description. No
 |Sparkle's Bone        | Increase CON by 20 and HP by 20              |         |
 |ERROR%                | Random Effect                                |         |
 |Flaming Ale           |Grants Flaming Fist unit Long Rest            |         |
-
+|Bean Stock            |Grants Giant Status until Long Rest           |         |
+|Horn of Plenty        |Heals 10 HP per turn until long rest          |         |
+|BreadFruit            |Counts as Long Rest                           |         |
+|Persimmon             |Increase CHR by 5 and Saving Throws + 2 ULR   |         |
+|Fig                   | Cannot be effected by emotional status effects|        |
+|Durian                |Gain the Smelly status and Vomit ability for 50 Turns|  |
+|Basilisk Dumbstick    | Gain the Petrify ability for 10 turns        |         |
+|Hydra's Head          |Cannot die for 10 turns                       |         |
+|Cyclops Eye           |Increase STR by 20 and Gain Large Status      |         |
 
 ## Installation
 This mod works with [Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager), and possibly Vortex and Manual
